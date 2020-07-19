@@ -1,0 +1,23 @@
+{
+  "name": "functional",
+  "version": "1.0.0",
+  "description": "",
+  "main": "\u001b[A\u001b[B",
+  "dependencies": {
+    "prompt-sync": "^4.1.6",
+    "readline-sync": "^1.4.9"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bhupi2508/JavaScript-Functional-Programs.git"
+  },
+  "author": "Bhupendra Singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bhupi2508/JavaScript-Functional-Programs/issues"
+  },
+  "homepage": "https://github.com/Bhupi2508/JavaScript-Functional-Programs#readme"
+}
